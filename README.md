@@ -1,6 +1,5 @@
 # xiaoxiangyuTF.cxx.util
 
-##C++ util
 目前,只支持C++11
 
 | 文件名称 | 文件描述　| 备注　|
@@ -18,3 +17,10 @@
 | json(nlohmann) | https://github.com/xiaoxiangyuTF/json　|  | 
 | iniparser4　| https://github.com/xiaoxiangyuTF/iniparser |  |
 | cmdline　| https://github.com/xiaoxiangyuTF/cmdline |  |
+
+使用方法雷同，例如：
+cd test
+cmake .
+make 
+./test_util
+目前，只覆盖了ｃｏｎｆｉｇ_helper的测试
