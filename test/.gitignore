@@ -38,6 +38,4 @@ CMakeFiles/
 Makefile
 cmake-build-debug/
 cmake_install.cmake
-log/
-demo
-demo.cbp
+test_util
